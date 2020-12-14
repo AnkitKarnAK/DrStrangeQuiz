@@ -1,2 +1,3 @@
 # DrStrangeQuiz
- A CLI based quiz app to check you well you about Dr. Strange movie
+ A CLI based 'yes' or 'no' quiz app to check how well you know about Dr. Strange movie
+
